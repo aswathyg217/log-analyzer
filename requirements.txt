@@ -1,0 +1,8 @@
+# logwatch has NO third-party runtime dependencies.
+#
+# The analyzer runs on the Python 3.10+ standard library alone (re, json,
+# argparse, collections, dataclasses). This file is included per the assignment
+# spec; there is nothing to install to run the tool.
+#
+# --- Development / testing only ---
+# pytest>=8.0.0
